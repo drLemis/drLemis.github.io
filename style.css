@@ -10,6 +10,11 @@
     font-size: x-large;
 }
 
+.titleInline {
+    font-size: x-large;
+    font-style: italic;
+}
+
 .blockquote {
     display: inline-block;
     vertical-align: middle;
